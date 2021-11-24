@@ -1,6 +1,6 @@
 ![](logo.gif)
 
-# -Baconsoft-Calculator
+# [Baconsoft] Calculator
 A Python 3.10 Calculator by [Baconsoft]
 
 This is Free. To. Use.
