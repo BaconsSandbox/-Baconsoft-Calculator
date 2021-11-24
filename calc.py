@@ -1,8 +1,6 @@
-from typing import AnyStr
-
-
-oggn: AnyStr
 print("Welcome To The [BaconSoft] Calculator!")
+print("Made by [Baconsoft]2021")
+print("Made USING #love in Python 3.10")
 print("What is your name?")
 name = input("My name is: ")
 space = (" ")
@@ -32,7 +30,6 @@ elif o == 4:
 else:
     print("Syntax Error: 1000 (wrong Opperation)")
     a = ("There was a error in the problem input")
-    
 print("The Answer is: ")
 print("______________\n")
 print(a)
