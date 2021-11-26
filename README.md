@@ -4,3 +4,4 @@
 A Python 3.10 Calculator by [Baconsoft]
 
 This is Free. To. Use.
+*Under the terms In The Lincence
